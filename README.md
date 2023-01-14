@@ -8,4 +8,4 @@ Checkout [repo_urls.json](https://github.com/PrepaidComp/dalmud/blob/main/repo_u
 
 ## Installation
 
-Just import the [ffxiv_custom_repo.json](https://github.com/PrepaidComp/dalmud/main/repo.json) by pasting the following link into the dalamud > settings: `https://raw.githubusercontent.com/PrepaidComp/dalmud/main/repo.json`
+Just import the [ffxiv_custom_repo.json](https://github.com/PrepaidComp/dalmud/blob/main/repo.json) by pasting the following link into the dalamud > settings: `https://raw.githubusercontent.com/PrepaidComp/dalmud/main/repo.json`
