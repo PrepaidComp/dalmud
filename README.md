@@ -4,7 +4,7 @@ The list will check every 30 min for updates (and pushes automaticly to github i
 
 
 
-Checkout [repo_urls.json](https://github.com/PrepaidComp/dalmud/main/repo_urls.json) for a list of repos.
+Checkout [repo_urls.json](https://github.com/PrepaidComp/dalmud/blob/main/repo_urls.json) for a list of repos.
 
 ## Installation
 
